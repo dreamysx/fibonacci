@@ -5,7 +5,7 @@ public class java {
 		Scanner input = new Scanner(System.in);
 		System.out.print("N: ");
 		int n = input.nextInt();
-		int a = 1, b = 0;
+		long a = 1, b = 0;
 
 		System.out.println(b + "\n" + a);
 
